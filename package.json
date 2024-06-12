@@ -10,7 +10,7 @@
     "start:dev": "webpack-dev-server",
     "serve": "webpack serve --open --mode development"
   },
-  "author": "Kanadskie",
+  "author": "GrunkoVan",
   "license": "ISC",
   "dependencies": {
     "postcss-loader": "^7.3.0",
